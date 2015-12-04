@@ -28,8 +28,8 @@ $ make; make install
 ### step 4
 cd back to the top level basemap directory (basemap-1.0.7) and run the usual **python setup.py install**. Check your installation by running **from mpl_toolkits.basemap import Basemap** at the python prompt.
 ```sh
-#make sure you have super user authority 
 $ cd basemap-1.0.7
+#make sure you have super user authority 
 $ sudo su
 $ python setup.py install
 $ python

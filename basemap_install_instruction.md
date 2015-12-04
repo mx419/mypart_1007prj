@@ -25,7 +25,8 @@ $ sudo su #then enter the password
 $ make; make install
 ```
 `to be modified:it will take you several several minutes to finish this, you will see balala`
-* cd back to the top level basemap directory (basemap-1.0.7) and run the usual **python setup.py install**. Check your installation by running **from mpl_toolkits.basemap import Basemap** at the python prompt.
+### step 4
+cd back to the top level basemap directory (basemap-1.0.7) and run the usual **python setup.py install**. Check your installation by running **from mpl_toolkits.basemap import Basemap** at the python prompt.
 ```sh
 #make sure you have super user authority 
 $ sudo su
